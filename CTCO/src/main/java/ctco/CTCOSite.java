@@ -1,7 +1,6 @@
 package ctco;
 
 import org.openqa.selenium.By;
-import utils.WebDriverUtils;
 
 class CTCOSite {
 
